@@ -1,0 +1,26 @@
+C:\Users\1123199\Desktop\情報メディア演習Ⅱ\情報メディア演習2_1224\提出物\test2 syuusei\MyKinectTool_\obj\x86\Debug\MyKinectTool_.exe
+C:\Users\1123199\Desktop\情報メディア演習Ⅱ\情報メディア演習2_1224\提出物\test2 syuusei\MyKinectTool_\obj\x86\Debug\MyKinectTool_.pdb
+C:\Users\1123199\Desktop\情報メディア演習Ⅱ\情報メディア演習2_1224\提出物\KineFight\MyKinectTool_\obj\x86\Debug\MyKinectTool_.exe
+C:\Users\1123199\Desktop\情報メディア演習Ⅱ\情報メディア演習2_1224\提出物\KineFight\MyKinectTool_\obj\x86\Debug\MyKinectTool_.pdb
+C:\Users\1123199\Desktop\情報メディア演習Ⅱ\情報メディア演習2_1224\提出物\KineFight\MyKinectTool_\bin\Debug\MyKinectTool_.exe
+C:\Users\1123199\Desktop\情報メディア演習Ⅱ\情報メディア演習2_1224\提出物\KineFight\MyKinectTool_\bin\Debug\MyKinectTool_.pdb
+C:\Users\1123199\Desktop\情報メディア演習Ⅱ\情報メディア演習2_1224\提出物\KineFight\MyKinectTool_\obj\x86\Debug\KineFight.csprojResolveAssemblyReference.cache
+C:\Users\1123199\Desktop\情報メディア演習Ⅱ\情報メディア演習2_1224\提出物\KineFight\MyKinectTool_\obj\x86\Debug\MainWindow.baml
+C:\Users\1123199\Desktop\情報メディア演習Ⅱ\情報メディア演習2_1224\提出物\KineFight\MyKinectTool_\obj\x86\Debug\MainWindow.g.cs
+C:\Users\1123199\Desktop\情報メディア演習Ⅱ\情報メディア演習2_1224\提出物\KineFight\MyKinectTool_\obj\x86\Debug\App.g.cs
+C:\Users\1123199\Desktop\情報メディア演習Ⅱ\情報メディア演習2_1224\提出物\KineFight\MyKinectTool_\obj\x86\Debug\MyKinectTool__MarkupCompile.cache
+C:\Users\1123199\Desktop\情報メディア演習Ⅱ\情報メディア演習2_1224\提出物\KineFight\MyKinectTool_\obj\x86\Debug\MyKinectTool_.g.resources
+C:\Users\1123199\Desktop\情報メディア演習Ⅱ\情報メディア演習2_1224\提出物\KineFight\MyKinectTool_\obj\x86\Debug\MyKinectTool_.Properties.Resources.resources
+C:\Users\1123199\Desktop\情報メディア演習Ⅱ\情報メディア演習2_1224\提出物\KineFight\MyKinectTool_\obj\x86\Debug\KineFight.csproj.GenerateResource.Cache
+C:\Users\1123199\Documents\GitHub\KineFight\MyKinectTool_\obj\x86\Debug\MyKinectTool_.exe
+C:\Users\1123199\Documents\GitHub\KineFight\MyKinectTool_\obj\x86\Debug\MyKinectTool_.pdb
+C:\Users\1123199\Documents\GitHub\KineFight\MyKinectTool_\bin\Debug\MyKinectTool_.exe
+C:\Users\1123199\Documents\GitHub\KineFight\MyKinectTool_\bin\Debug\MyKinectTool_.pdb
+C:\Users\1123199\Documents\GitHub\KineFight\MyKinectTool_\obj\x86\Debug\KineFight.csprojResolveAssemblyReference.cache
+C:\Users\1123199\Documents\GitHub\KineFight\MyKinectTool_\obj\x86\Debug\MainWindow.baml
+C:\Users\1123199\Documents\GitHub\KineFight\MyKinectTool_\obj\x86\Debug\MainWindow.g.cs
+C:\Users\1123199\Documents\GitHub\KineFight\MyKinectTool_\obj\x86\Debug\App.g.cs
+C:\Users\1123199\Documents\GitHub\KineFight\MyKinectTool_\obj\x86\Debug\MyKinectTool__MarkupCompile.cache
+C:\Users\1123199\Documents\GitHub\KineFight\MyKinectTool_\obj\x86\Debug\MyKinectTool_.g.resources
+C:\Users\1123199\Documents\GitHub\KineFight\MyKinectTool_\obj\x86\Debug\MyKinectTool_.Properties.Resources.resources
+C:\Users\1123199\Documents\GitHub\KineFight\MyKinectTool_\obj\x86\Debug\KineFight.csproj.GenerateResource.Cache
