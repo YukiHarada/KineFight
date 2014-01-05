@@ -20,7 +20,7 @@ README.md　　　　このファイルです。
 
 【4.最後に】  
 Kinect for Windows SDKで提供されている著作権は、Microsoft Corporationにあります。  
-詳しくはこちらをご覧下さい。(http://www.microsoft.com/en-us/kinectforwindows/develop/sdk-eula_ja-jp.aspx)
+詳しくはこちらをご覧下さい。(http://www.microsoft.com/en-us/kinectforwindows/develop/sdk-eula_ja-jp.aspx)  
 このプログラムの閲覧、実行により問題、損害等が発生しましても制作者は責任をとりません。  
 全て自己責任において行ってください。  
 
